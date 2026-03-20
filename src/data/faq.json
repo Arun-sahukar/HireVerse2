@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What is HireVerse?",
+    "answer": "HireVerse is a professional job portal designed to connect high-tier talent with top companies globally through a streamlined, secure platform."
+  },
+  {
+    "question": "How do I apply for a job?",
+    "answer": "Once you're logged in and have completed your profile (Candidate role), simply browse listings and click 'Apply'. You can upload your resume and specify your experience."
+  },
+  {
+    "question": "Is it free for job seekers?",
+    "answer": "Yes, HireVerse is completely free for candidates to search and apply for jobs."
+  },
+  {
+    "question": "How can I post a job as a recruiter?",
+    "answer": "After signing up, select the 'Recruiter' role in onboarding. You'll then have access to the 'Post a Job' section and recruiter dashboard."
+  }
+]

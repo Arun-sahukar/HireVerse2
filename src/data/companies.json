@@ -1,0 +1,8 @@
+[
+  { "name": "Google", "id": 1, "path": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" },
+  { "name": "Microsoft", "id": 2, "path": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" },
+  { "name": "Amazon", "id": 3, "path": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" },
+  { "name": "Netflix", "id": 4, "path": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" },
+  { "name": "Apple", "id": 5, "path": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" },
+  { "name": "Meta", "id": 6, "path": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" }
+]
