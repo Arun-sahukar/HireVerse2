@@ -2,6 +2,17 @@
 
 **HireVerse** is a premium, full-stack job portal built with React, Supabase, and Clerk. It features a sleek, dark-themed UI with glassmorphism, smooth animations, and role-based access control for both recruiters and candidates.
 
+## 🖼️ Screenshots
+
+### Landing Page
+![Landing Page](./assets/landing.png)
+
+### Professional Job Listings
+![Job Listings](./assets/jobs.webp)
+
+### Premium UI Design
+![UI Design](./assets/ui.webp)
+
 ## ✨ Features
 
 - **💼 Recruiter Dashboard**: Post jobs, manage applications, and toggle hiring status.
@@ -56,6 +67,3 @@ npm run dev
 
 ## 📬 Contact
 Follow me on GitHub: [@Arun-sahukar](https://github.com/Arun-sahukar)
-
----
-Developed with ❤️ by Antigravity (Advanced AI Coding Assistant)
