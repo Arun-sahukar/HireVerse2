@@ -1,16 +1,61 @@
-# React + Vite
+# 🚀 HireVerse - Modern Job Portal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**HireVerse** is a premium, full-stack job portal built with React, Supabase, and Clerk. It features a sleek, dark-themed UI with glassmorphism, smooth animations, and role-based access control for both recruiters and candidates.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **💼 Recruiter Dashboard**: Post jobs, manage applications, and toggle hiring status.
+- **🔍 Advanced Job Search**: Filter by location, company, and title.
+- **🛡️ Secure Auth**: Integrated with Clerk for seamless authentication and onboarding.
+- **❤️ Job Wishlist**: Candidates can save jobs for later.
+- **📄 Application Tracking**: Apply with resumes and track your status.
+- **🎨 Premium UI**: Dark mode, gradients, glassmorphism, and responsive design.
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Frontend**: React (Vite), Tailwind CSS, Shadcn UI, Framer Motion
+- **Backend**: Supabase (Postgres)
+- **Authentication**: Clerk
+- **Forms**: React Hook Form + Zod
+- **Documentation**: React Markdown Editor
 
-## Expanding the ESLint configuration
+## 🚀 Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 1. Prerequisites
+- Node.js (v18+)
+- Supabase Account
+- Clerk Account
+
+### 2. Installation
+```bash
+# Clone the repository
+git clone https://github.com/Arun-sahukar/HireVerse2.git
+
+# Navigate to the folder
+cd HireVerse2
+
+# Install dependencies
+npm install
+```
+
+### 3. Environment Setup
+Create a `.env` file in the root and add your keys:
+```env
+VITE_CLERK_PUBLISHABLE_KEY=your_clerk_key
+VITE_SUPABASE_URL=your_supabase_url
+VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
+```
+
+### 4. Database Setup
+Run the SQL provided in `supabase-schema.sql` in your Supabase SQL Editor to create the necessary tables (`jobs`, `companies`, `applications`, `saved_jobs`).
+
+### 5. Start the App
+```bash
+npm run dev
+```
+
+## 📬 Contact
+Follow me on GitHub: [@Arun-sahukar](https://github.com/Arun-sahukar)
+
+---
+Developed with ❤️ by Antigravity (Advanced AI Coding Assistant)
