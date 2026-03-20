@@ -10,8 +10,7 @@
 ### Professional Job Listings
 ![Job Listings](./assets/jobs.webp)
 
-### Premium UI Design
-![UI Design](./assets/ui.webp)
+
 
 ## ✨ Features
 
